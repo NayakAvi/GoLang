@@ -9,3 +9,4 @@
 
 ## Topics covered
  - [x] BootStrap with Hello world!!
+ - [ ] Variables
