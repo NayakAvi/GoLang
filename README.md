@@ -9,9 +9,3 @@
 
 ## Topics covered
  - [x] BootStrap with Hello world!!
- 
- 
-## References:
-
-* https://www.callicoder.com/categories/golang/
-* https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX
