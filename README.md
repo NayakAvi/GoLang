@@ -5,6 +5,7 @@
 * `go run <filename>` for build and run
 * `go build <filename>` for executable
 * `//` for single line comment and `/** ...*/` for multiline comment
+* switch statement will stop executing once the condition case is matched and will not evaluate any further cases, switch case does not need break statement
 
 
 ## Topics covered
