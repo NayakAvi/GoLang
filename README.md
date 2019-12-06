@@ -9,5 +9,7 @@
 
 
 ## Topics covered
- - [x] BootStrap with Hello world!!
- - [ ] Variables
+- [x] BootStrap with Hello world!!
+- [x] Variables
+- [x] Conditional Statements and Loops
+- [x] Functions
