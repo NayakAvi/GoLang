@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546d55ea-6877-4e24-b0e5-eae431c1abbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GoLang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 Arrays/01 Simple Array Operation/03 multidimensional arrays.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,28 +72,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 05 Blank return.go">
-    <configuration name="go build 01 Normal return.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 03 multidimensional arrays.go">
+    <configuration name="go build 01 Simple Array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/04 Functions/02 multiple return values/01 Normal return.go" />
+      <filePath value="$PROJECT_DIR$/05 Arrays/01 Simple Array Operation/01 Simple Array.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 02 Named Return.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 02 Array Looping.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/04 Functions/02 multiple return values/02 Named Return.go" />
+      <filePath value="$PROJECT_DIR$/05 Arrays/01 Simple Array Operation/02 Array Looping.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 03 Error Return.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 03 multidimensional arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/04 Functions/02 multiple return values/03 Error Return.go" />
+      <filePath value="$PROJECT_DIR$/05 Arrays/01 Simple Array Operation/03 multidimensional arrays.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 03 multidimensional arrays.go" />
+        <item itemvalue="Go Build.go build 02 Array Looping.go" />
+        <item itemvalue="Go Build.go build 01 Simple Array.go" />
         <item itemvalue="Go Build.go build 05 Blank return.go" />
         <item itemvalue="Go Build.go build 04 Naked Return.go" />
-        <item itemvalue="Go Build.go build 03 Error Return.go" />
-        <item itemvalue="Go Build.go build 02 Named Return.go" />
-        <item itemvalue="Go Build.go build 01 Normal return.go" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +155,8 @@
       <workItem from="1575169362559" duration="1141000" />
       <workItem from="1575265662649" duration="7348000" />
       <workItem from="1575613465839" duration="2120000" />
+      <workItem from="1575695606101" duration="787000" />
+      <workItem from="1577092012358" duration="1314000" />
     </task>
     <servers />
   </component>
