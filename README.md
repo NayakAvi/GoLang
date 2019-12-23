@@ -13,3 +13,4 @@
 - [x] Variables
 - [x] Conditional Statements and Loops
 - [x] Functions
+- [ ] Arrays
